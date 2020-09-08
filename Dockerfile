@@ -1,7 +1,7 @@
 FROM python:3.8-alpine3.12
 
-MAINTAINER Paul Podgorsek <ppodgorsek@users.noreply.github.com>
-LABEL description Robot Framework in Docker.
+MAINTAINER Maurice Brinkmann <mauricebrinkmann@users.noreply.github.com>
+LABEL description Robot Framework in Docker Alpine, with Firefox and Chrome and simple API Call Test Support
 
 # Set the reports directory environment variable
 ENV ROBOT_REPORTS_DIR /opt/robotframework/reports
