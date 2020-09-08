@@ -19,6 +19,7 @@ The versions used are:
 * [Robot Framework DatabaseLibrary](https://github.com/franz-see/Robotframework-Database-Library) 1.2
 * [Robot Framework Faker](https://github.com/guykisel/robotframework-faker) 5.0.0
 * [Robot Framework FTPLibrary](https://github.com/kowalpy/Robot-Framework-FTP-Library) 1.9
+* [Robot Framework HttpCtrl Library](https://pypi.org/project/robotframework-httpctrl/) 0.1.6
 * [Robot Framework IMAPLibrary 2](https://pypi.org/project/robotframework-imaplibrary2/) 0.3.6
 * [Robot Framework Pabot](https://github.com/mkorpela/pabot) 1.8.0
 * [Robot Framework Requests](https://github.com/bulkan/robotframework-requests) 0.7.0
@@ -235,6 +236,7 @@ It is anyway mandatory to extend the container image to install the specific dat
 * [Oracle](https://www.oracle.com/uk/database/technologies/appdev/python.html): `pip install py2oracle`
 * [PostgreSQL](http://pybrary.net/pg8000/index.html): `pip install pg8000`
 
-## Please contribute!
+## Please contribute to the!
 
-Have you found an issue? Do you have an idea for an improvement? Feel free to contribute by submitting it [on the GitHub project](https://github.com/ppodgorsek/docker-robot-framework/issues).
+Have you found an issue? Do you have an idea for an improvement? Feel free to contribute by submitting it [here on THIS GitHub project](https://github.com/mauricebrinkmann/docker-robot-framework/issues)
+
