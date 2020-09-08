@@ -1,4 +1,4 @@
-# Robot Framework in Docker Alpine, with Firefox and Chrome
+# Robot Framework in Docker Alpine, with Firefox and Chrome _and simple API Call Test Support_
 
 ## What is it?
 
